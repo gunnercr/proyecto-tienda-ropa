@@ -4,4 +4,6 @@ Bienvenido al repositorio del proyecto **Tienda de Ropa**, este contiene una bas
 
 ![Diagrama Relacional](diagrama-tienda-de-ropa.png)
 
+###  Creador del Proyecto
 
+- Rolando Baldares Gómez
